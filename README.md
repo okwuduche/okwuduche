@@ -4,7 +4,7 @@
 **CAREER HIGHLIGHTS**
 
 
-I am an experienced Chartered Certified Accountant (ACCA), Software Engineer, Internal Auditor, Fraud Examiner (CFE), and a Data Analyst with over 9 years of experience in Internal Auditing, Data Analytics and Accounting cutting across Africa and Europe. 
+I am an experienced Software Engineer, Chartered Certified Accountant (ACCA), Internal Auditor, Fraud Examiner (CFE), and a Data Analyst with over 9 years of experience in Internal Auditing, Data Analytics and Accounting cutting across Africa and Europe. 
 
 
 - 🔭 I’m currently working on a payroll application for the Nigerian market. This will be rolled out to tyhe world after meeting the needs of SMEs in Nigeria
